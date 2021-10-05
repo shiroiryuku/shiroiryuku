@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiroiryuku
 - 👀 I’m interested in evrything
 - 🌱 I’m currently learning Coding fundamentals
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me by email 
 
 <!---
